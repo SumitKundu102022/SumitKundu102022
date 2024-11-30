@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sumit__kundu" target="blank"><img src="https://img.shields.io/twitter/follow/sumit__kundu?logo=twitter&style=for-the-badge" alt="sumit__kundu" /></a> </p>
 
-- 🔭 I’m currently working on [Student-Career-Support-HackByte_2.O-](https://github.com/SumitKundu102022/Student-Career-Support-HackByte_2.O-.git)
+- 🔭 Final year of studies at Haldia Institute of Technology.
 
 - 🌱 I’m currently learning **React.js,Mongodb,node.js,express.js,JWT,API and postman**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sumit-kundu.netlify.app/](https://my-portfolio-sumit-kundu.netlify.app/)
+- 👨‍💻 Visit my website [Link](https://sumit-kundu.vercel.app/)
 
 - 💬 Ask me about **React.js**
 
