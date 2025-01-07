@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sumitkundu10012001@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1K4DjBkiS51Fn_xydDngbRUhQIVfx9G5E/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gd6Livz6csGNVHHC70Ze0L338Yt-w0-p/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
