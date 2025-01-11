@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SumitKundu102022/SumitKundu102022/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Kundu</h1>
 <h3 align="center">Aspiring Full Stack Developer| Expertise in React.js | Proficient in C++</h3>
 
