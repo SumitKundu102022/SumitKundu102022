@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sumitkundu10012001@gmail.com**
 
-- 📄 Know about my experiences Resume : [https://drive.google.com/file/d/15P58TjDDltqGN13NY71Bc_aUZRK5TqJK/view?usp=drive_link](https://drive.google.com/file/d/15P58TjDDltqGN13NY71Bc_aUZRK5TqJK/view?usp=drive_link)
+- 📄 Know about my experiences Resume : [Click here](https://drive.google.com/file/d/15P58TjDDltqGN13NY71Bc_aUZRK5TqJK/view?usp=drive_link)
 
 - ⚡ Fun fact **I love blending creativity and logic, whether it’s building web apps or exploring data-driven solutions!**
 
